@@ -1,0 +1,11 @@
+# Ignore Node.js-related files and directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore environment-specific files
+.env
